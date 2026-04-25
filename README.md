@@ -141,10 +141,6 @@ After etching:
 
 ---
 
-# Images
-
----
-
 # ESP32 Module – Code Uploading & Testing
 
 This stage shows the ESP32-WROOM-32 module connected on breadboard for firmware uploading, debugging, and validation before final PCB integration.
